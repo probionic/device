@@ -1,2 +1,2 @@
-# device-api
-API that runs on the prosthesis device
+# device
+Code involving the prosthesis device management.
